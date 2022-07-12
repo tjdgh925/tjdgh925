@@ -1,6 +1,6 @@
 # 장성호 SunghoJang
 
-[블로그](https://tjdgh925.tistory.com) | [포트폴리오](https://cactus-yam-6e4.notion.site/38c44566e25e40cbbde124eccee45e96) 
+[블로그](https://tjdgh925.tistory.com) 
 
 <!-- langauge -->
 <p>
